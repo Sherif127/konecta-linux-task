@@ -21,17 +21,14 @@ User info explained:
 - `more` → displays file page by page; useful for large files.
 
 **Screenshot:**  
-![Task 2](assets/2.1 cat.PNG)  
-![Task 2](assets/2.2 more.PNG)  
+![Task 2](assets/2.1.PNG)  
+![Task 2](assets/2.2.PNG)  
 
 ---
 
 ## 3 - Explain the difference between the rm and rmdir commands.
 - `rm` → removes files or directories (use `-r` for non-empty directories).  
 - `rmdir` → removes only empty directories.
-
-**Screenshot:**  
-![Task 3](assets/3.PNG)  
 
 ---
 
